@@ -28,6 +28,10 @@
 <loc>http://localhost:4000/search/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/Booklet.pdf</loc>
+<lastmod>2023-05-17T13:05:27-04:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/assets/Booklet.pdf</loc>
 <lastmod>2023-05-17T13:05:27-04:00</lastmod>
 </url>
